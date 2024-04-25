@@ -5,7 +5,7 @@ I am currently a Managing Principal & Head of Financial Derivatives of FBA Quant
 
 I am interested in financial derivatives as well as blockchain technologies - DeFi, DLT, IPFS, Smart Contracts, Web3.
 
-- At @bosagora, I cntributed to the BOSAGORA blockchain development and worked on tasks involving consensus protocols, cryptography, transactions.
+- At [BOSAGORA](https://github.com/bosagora/), I cntributed to the BOSAGORA blockchain development and worked on tasks involving consensus protocols, cryptography, transactions.
 - At [Wavebridge](https://wavebridge.com/en), I developed and maintained in-house fund management tools for monitoring the department's assets and exposures.
 
 **Languages and tools:**  
