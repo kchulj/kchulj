@@ -1,7 +1,7 @@
 ## Hi! I'm Ku :wave:
 
 I'm a developer with experience in blockchain, financial engineering, project management.
-I am currently a Managing Principal & Head of Financial Derivatives of FBA Quant, a quantitative finance research group.
+I am currently a Managing Principal & Head of Financial Derivatives of [FBA Quant](https://www.fbaquant.com/), a quantitative finance research group.
 
 I am interested in financial derivatives as well as blockchain technologies - DeFi, DLT, IPFS, Smart Contracts, Web3.
 
